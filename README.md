@@ -2,7 +2,7 @@
 
 Overview of the loan prediction risk analysis:
 
-The overview of this analysis is to explore oversampling and undersampling. Originally, we saw that there was a lot more samples in one category than the other which meant that the data heavily scewed towards one dataset. Therefore, we performed oversampling and undersampling to balance out the data in each category to perform a more accurate test and train. 
+The overview of this analysis is to explore oversampling and undersampling. Originally, we saw that there was a lot more samples in one category than the other which meant that the data heavily scewed towards one dataset. Therefore, we performed oversampling and undersampling to balance out the data in each category to perform a more accurate test and train.
 
 
 ## Results
